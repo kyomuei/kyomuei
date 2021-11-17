@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[
+![Stats Card](https://github-readme-stats.vercel.app/api?username=kyomuei&count-private=true&show_icons=true&title_color=ff8f1c&icon_color=ff8f1c)
+](https://github.com/anuraghazra/gitnub-readme-stats)
+
+[
+![Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kyomuei&title_color=ff8f1c)
+](https://github.com/anuraghazra/github-readme-stats)
