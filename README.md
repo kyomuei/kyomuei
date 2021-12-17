@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Badges
+
+[![Badge](https://cp-logo.vercel.app/atcoder/kyomuei)](https://atcoder.jp/users/kyomuei) 
+
+## Stats
+
 [
 ![Stats Card](https://github-readme-stats.vercel.app/api?username=kyomuei&count-private=true&show_icons=true&title_color=ff8f1c&icon_color=ff8f1c)
 ](https://github.com/anuraghazra/gitnub-readme-stats)
